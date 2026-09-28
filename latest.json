@@ -1,10 +1,16 @@
 {
   "schema": 1,
-  "app_version": "0.1.0",
-  "build_id": "2531650f059e6d30444acead2e51fc48a253fd82",
-  "build_sequence": 20,
-  "runtime_abi": 1,
+  "app_version": "0.2.0",
+  "build_id": "f7a40f76f8cb10fe2336186fb5f3a2141014c259",
+  "build_sequence": 33,
+  "runtime_abi": 2,
+  "python_runtime": "3.11",
+  "db_schema_min": 0,
+  "db_schema_max": 4,
   "patch_url": "https://raw.githubusercontent.com/takoyaki2024/MangaReader-Updates/main/MangaReader-Patch.zip",
-  "patch_sha256": "aba2fd1593757163daf5f71937459486d713bbfce677ccbf464202ec3d30d7d4",
-  "patch_size": 2940184
+  "patch_sha256": "0ba354b2cb448ab882594c1dd89f59479e6847e7944f97b63ec3db5dccd38aaf",
+  "patch_size": 3071150,
+  "full_url": "https://raw.githubusercontent.com/takoyaki2024/MangaReader-Updates/main/MangaReader-Windows.zip",
+  "full_sha256": "63e0950a815d75ed08ed7d9907cbd82f1215e2339a19780fe1a93757173f32d8",
+  "full_size": 58291578
 }
